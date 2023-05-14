@@ -53,23 +53,22 @@ Corosync —программный продукт, позволяющий реа
 
 1. `Выполнил все этапы по заданию`
 
-![]()`
+![pcs_status_&_pcs_cluster_status_node1.png](https://github.com/oleghamov/Pacemaker-10-03-14-05-23-hw-/blob/master/pcs_status_%26_pcs_cluster_status_node1.png)`
 
-![]()`
+![pcs_status_&_pcs_cluster_status_node2.png](https://github.com/oleghamov/Pacemaker-10-03-14-05-23-hw-/blob/master/pcs_status_%26_pcs_cluster_status_node2.png)`
 
-![]()`
+![Corosync.conf_node1.png](https://github.com/oleghamov/Pacemaker-10-03-14-05-23-hw-/blob/master/Corosync.conf_node1.png)`
 
-![]()`
+![Corosync.conf_node2.png](https://github.com/oleghamov/Pacemaker-10-03-14-05-23-hw-/blob/master/Corosync.conf_node2.png)`
 
-![]()`
+![Pacemaker_web_node1.png](https://github.com/oleghamov/Pacemaker-10-03-14-05-23-hw-/blob/master/Pacemaker_web_node1.png)`
 
-![]()`
+![Pacemaker_web_node2.png](https://github.com/oleghamov/Pacemaker-10-03-14-05-23-hw-/blob/master/Pacemaker_web_node2.png)`
 
-![]()`
+![Apache2-clone.png](https://github.com/oleghamov/Pacemaker-10-03-14-05-23-hw-/blob/master/Apache2-clone.png)`
 
-![]()`
+![MysqlDate_&_WebDate-clone.png](https://github.com/oleghamov/Pacemaker-10-03-14-05-23-hw-/blob/master/MysqlDate_%26_WebDate-clone.png)`
 
-![]()`
 
 
 
